@@ -6,20 +6,20 @@
 /*custom fonts*/
 @font-face {
  font-family: pacifico;
- src: url("fonts/Pacifico.eot") /* EOT file for IE */
+ src: url("Pacifico.eot") /* EOT file for IE */
 }
 @font-face {
  font-family: pacifico;
- src: url("fonts/Pacifico.ttf") /* TTF file for CSS3 browsers */
+ src: url("Pacifico.ttf") /* TTF file for CSS3 browsers */
 }
 
 @font-face {
  font-family: bebas;
- src: url("fonts/bebas.eot") /* EOT file for IE */
+ src: url("bebas.eot") /* EOT file for IE */
 }
 @font-face {
  font-family: bebas;
- src: url("fonts/bebas.TTF") /* TTF file for CSS3 browsers */
+ src: url("bebas.TTF") /* TTF file for CSS3 browsers */
 }
 /*end custom fonts*/
 
